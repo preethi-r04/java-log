@@ -9,6 +9,7 @@ public class SideofSquare {
             "The length of the side is " + side +
             " whose perimeter is " + perimeter
         );
+        sc.close();
     }
 }
 

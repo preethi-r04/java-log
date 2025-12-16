@@ -7,6 +7,7 @@ public class HandShakes {
         int stu = sc.nextInt();
         int HandShakes = (stu*(stu-1))/2;
         System.out.println("The possible handshakes: "+HandShakes);
+        sc.close();
         
     }
     

@@ -12,6 +12,7 @@ public class TolPurchase {
             " if the quantity " + quantity +
             " and unit price is INR " + unitPrice
         );
+        sc.close();
         
     }
     
