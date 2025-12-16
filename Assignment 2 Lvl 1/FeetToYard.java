@@ -12,6 +12,7 @@ public class FeetToYard {
             "The distance in yards is " + yards +
             " and in miles is " + miles
         );
+        sc.close();
     }
 }
     

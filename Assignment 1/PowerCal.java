@@ -17,5 +17,6 @@ public class PowerCal {
         }
 
         System.out.println("Result: " + result);
+        sc.close();
     }
 }
